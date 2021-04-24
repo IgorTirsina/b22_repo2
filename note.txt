@@ -11,4 +11,6 @@ NOW OUR WORK WILL CONTINUE LOCALLY
 1.ADD A NEW FILE CALLED note.txt
 2. commited the changes to local repo
 3. we want this change to be reflected in remote repository so We PUSHED local commits to remote repository using push origin button 
-4. Observe it has been added in your repository under GitHub.com 
+4. Observe it has been added in your repository under GitHub.com
+
+How to save after adding some text: CTRL+Shift+S -> save as. 
