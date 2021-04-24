@@ -1,0 +1,4 @@
+We just ublished our local repo
+to remoe GitHub.com repository
+Few things happened:
+	1. It automatically created a repo
