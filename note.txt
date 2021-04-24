@@ -1,4 +1,14 @@
 We just ublished our local repo
 to remoe GitHub.com repository
 Few things happened:
-	1. It automatically created a repo
+	1. It automatically created a Remote Repo
+		under your GitHub.com account
+	2. Made the connection with yout local git repo
+	3. ADDED ALL YOUR COMMITS TO REMOTE REPO
+
+NOW OUR WORK WILL CONTINUE LOCALLY	
+
+1.ADD A NEW FILE CALLED note.txt
+2. commited the changes to local repo
+3. we want this change to be reflected in remote repository so We PUSHED local commits to remote repository using push origin button 
+4. Observe it has been added in your repository under GitHub.com 
